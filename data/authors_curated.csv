@@ -1,0 +1,482 @@
+internal_id,author,birthYear,birthPlace
+1,Paul Morand,1888,8e arrondissement de Paris
+2,Arthur Rimbaud,1854,Charleville
+3,Charles Baudelaire,1821,Paris
+4,Stendhal,1783,Grenoble
+5,Émile Zola,1840,rue Saint-Joseph
+6,Victor Hugo,1802,Besançon
+7,Q539,1807,Nice
+8,Brigitte Fontaine,1939,Morlaix
+9,Paul Verlaine,1844,Metz
+10,Stéphane Mallarmé,1842,Paris
+11,Hector Berlioz,1803,La Côte-Saint-André
+12,Robert Brasillach,1909,Perpignan
+13,Serge Gainsbourg,1928,4e arrondissement de Paris
+14,Renaud,1952,15e arrondissement de Paris
+15,Antoine de Saint-Exupéry,1900,Lyon
+16,Charles Maurras,1868,Martigues
+17,George Orwell,1903,Motihari
+18,George Sand,1804,ancien 6e arrondissement de Paris
+19,Louis Aragon,1897,16e arrondissement de Paris
+20,Elsa Triolet,1896,Moscou
+21,Joachim du Bellay,1522,Liré
+22,Sławomir Mrożek,1930,Borzęcin
+23,Mathieu Bandello,1485,Castelnuovo Scrivia
+24,Pierre Delaire,1919,Orléans
+25,Per Denez,1921,Rennes
+26,Georges Duhamel,1884,Paris
+27,Élisée Reclus,1830,Sainte-Foy-la-Grande
+28,Maurice Genevoix,1890,Decize
+29,Octave Mirbeau,1848,Trévières
+30,George Clooney,1961,Lexington
+31,Maxime Raybaud,1795,La Colle-sur-Loup
+32,Mikhaïl Bakounine,1814,Priamoukhino
+33,Louis Antoine de Saint-Just,1767,Decize
+34,Bernard Werber,1961,Toulouse
+35,Henry Dunant,1828,Genève
+36,Edmond Privat,1889,Genève
+37,Gaston Waringhien,1901,Lille
+38,Jean Jaurès,1859,Castres
+39,Auguste Comte,1798,Montpellier
+40,Arlette Laguiller,1940,14e arrondissement de Paris
+41,Georges Lagrange,1928,Gagny
+42,Michel Jobert,1921,Meknès
+43,Raymond Schwartz,1894,Metz
+44,Laurent Fignon,1960,18e arrondissement de Paris
+45,Jean-Baptiste Say,1767,Lyon
+46,Frédéric Bastiat,1801,Bayonne
+47,François Quesnay,1694,Méré
+48,Eugène-Melchior de Vogüé,1848,Nice
+49,Tristan Tzara,1896,Moinești
+50,Gao Xingjian,1940,district de Ganxian
+51,Henri Barbusse,1873,Asnières-sur-Seine
+52,Pierre Carnac,1921,Piatra Neamț
+53,Jean Venturini,1919,Nabeul
+54,Hubert Rouger,1875,Calvisson
+55,Oscar Wilde,1854,Dublin
+56,Maurice Alhoy,1802,Paris
+57,Henry Murger,1822,ancien 2e arrondissement de Paris
+58,Daniel Yvinec,1963,Vannes
+59,Jean d'Esme,1893,Shanghaï
+60,Maryline Desbiolles,1959,Ugine
+61,Marcel Boulenger,1873,Paris
+62,Jules Verne,1828,Nantes
+63,Albert Camus,1913,Dréan
+64,Brigitte Bardot,1934,15e arrondissement de Paris
+65,Christophe Bataille,1971,Versailles
+66,Alexandre Dumas,1802,Villers-Cotterêts
+67,Antoine Lavoisier,1743,Paris
+68,Rodolphe Töpffer,1799,Genève
+69,Anne Moreau-Vagnon,1966,Antony
+70,Pierre Abélard,1079,Le Pallet
+71,Chrétien de Troyes,1135,Troyes
+72,Albert d'Aix,1060,Rhénanie
+73,Arnaut Daniel,1150,Ribérac
+74,Sarah Bernhardt,1844,Paris
+75,Le Corbusier,1887,La Chaux-de-Fonds
+76,Léon d'Hervey de Saint-Denys,1822,Paris
+77,Jean Bodel,1165,Arras
+78,Hugues Primat,1093,Orléans
+79,Hugues Primat,1095,Orléans
+80,Eudes de Deuil,1110,Deuil-la-Barre
+81,Gautier d'Arras,1135,Arras
+82,Héloïse d'Argenteuil,1101,Paris
+83,Conon de Béthune,1150,Artois
+84,Adolphe Thiers,1797,Marseille
+85,Pierre-Joseph Proudhon,1809,Besançon
+86,Anna de Noailles,1876,7e arrondissement de Paris
+87,James Joyce,1882,Dublin
+88,Julien Offray de La Mettrie,1709,Saint-Malo
+89,Paul Henri Thiry d’Holbach,1723,Edesheim
+90,Michel Audiard,1920,14e arrondissement de Paris
+91,Simone de Beauvoir,1908,6e arrondissement de Paris
+92,Marcel Proust,1871,16e arrondissement de Paris
+93,Napoléon III,1808,Paris
+94,Louis Bonaparte,1778,Ajaccio
+95,Boris Vian,1920,Ville-d'Avray
+96,Alfred Jarry,1873,Laval
+97,Voltaire,1694,Paris
+98,René Descartes,1596,Descartes
+99,Guy de Maupassant,1850,Tourville-sur-Arques
+100,Jean-Paul Sartre,1905,Paris
+101,Honoré de Balzac,1799,Tours
+102,Yann-Fañch Kemener,1957,Saint-Brieuc
+103,Anne Cuneo,1936,Paris
+104,James Guillaume,1844,Londres
+105,Alexandre Voisard,1930,Porrentruy
+106,Jacques Arago,1790,Estagel
+107,Edmond Kaiser,1914,Paris
+108,Auguste Viatte,1901,Porrentruy
+109,Jacques Neirynck,1931,Uccle
+110,Colette Peignot,1903,Meudon
+111,August Hermann Ewerbeck,1816,Gdańsk
+112,Alfred Kantorowicz,1899,Berlin
+113,Adolphe Joanne,1813,Dijon
+114,Gabrielle Bossis,1874,Nantes
+115,Lucien Bonaparte,1775,Ajaccio
+116,André Malraux,1901,18e arrondissement de Paris
+117,Louis-Ferdinand Céline,1894,Courbevoie
+118,Joséphine Baker,1906,Saint-Louis
+119,Paul Éluard,1895,Saint-Denis
+120,Robert Capa,1913,Budapest
+121,Emmanuel Levinas,1906,Kaunas
+122,Marguerite Duras,1914,Gia Định
+123,Jean Arp,1886,Strasbourg
+124,Paul Celan,1920,Tchernivtsi
+125,Louis-Antoine de Bougainville,1729,Paris
+126,Gabriel Marcel,1889,8e arrondissement de Paris
+127,François Arago,1786,Estagel
+128,Léopold Sédar Senghor,1906,Joal-Fadiouth
+129,Julien Benda,1867,Paris
+130,Pierre Boulez,1925,Montbrison
+131,Nadar,1820,rue Saint-Honoré
+132,J. M. G. Le Clézio,1940,Nice
+133,Henri Bergson,1859,Paris
+134,Sully Prudhomme,1839,10ᵉ arrondissement de Paris
+135,Anatole France,1844,Paris
+136,Frédéric Mistral,1830,Maillane
+137,Gustave Flaubert,1821,Rouen
+138,Bernard Comment,1960,Porrentruy
+139,Jérôme Ferrari,1968,Paris
+140,Heinrich Heine,1797,Düsseldorf
+141,Pierre-Simon de Laplace,1749,Beaumont-en-Auge
+142,André Vingt-Trois,1942,14e arrondissement de Paris
+143,Jacques Maritain,1882,9e arrondissement de Paris
+144,Ivan Bounine,1870,Voronej
+145,Romain Rolland,1866,Clamecy
+146,André Gide,1869,Paris
+147,Nestor Makhno,1888,Houliaïpole
+148,Eva Illouz,1961,Fès
+149,Pierre Clostermann,1921,Curitiba
+150,Georges Feydeau,1862,rue de Clichy
+151,Marivaux,1688,Paris
+152,Jean de La Fontaine,1621,Château-Thierry
+153,Sunsiaré de Larcône,1935,Rambervillers
+154,Roger Nimier,1925,Paris
+155,Pierre de Ronsard,1524,château de la Possonnière
+156,Peter Brook,1925,Chiswick
+157,François-René de Chateaubriand,1768,Saint-Malo
+158,Louis Leroy,1812,ancien 1er arrondissement de Paris
+159,Jean Renoir,1894,18e arrondissement de Paris
+160,Éric Rohmer,1920,Tulle
+161,Georges Courteline,1858,Tours
+162,Roman Polanski,1933,Paris
+163,Colette Audry,1906,Orange
+164,François Truffaut,1932,17e arrondissement de Paris
+165,Françoise Hardy,1944,9e arrondissement de Paris
+166,Jean Ferrat,1930,Vaucresson
+167,Mohsen Makhmalbaf,1957,Téhéran
+168,René Clair,1898,Paris
+169,Henri Verneuil,1920,Tekirdağ
+170,Aleksander Borejko Chodźko,1804,Kryvičy
+171,Alfred Döblin,1878,Szczecin
+172,Georg Forster,1754,Mokry Dwór
+173,Marcel Arland,1899,Varennes-sur-Amance
+174,Jenny d’Héricourt,1809,Besançon
+175,René Depestre,1926,Jacmel
+176,Jeremy Bentham,1748,Londres
+177,Erwin Piscator,1893,Greifenstein
+178,Zinaïda Hippius,1869,Beliov
+179,Jules Oppert,1825,Hambourg
+180,Alois Kayser,1877,Lupstein
+181,Gisèle Freund,1908,Berlin-Schöneberg
+182,Nicolas Rémy,1530,Charmes
+183,Carl Einstein,1885,Neuwied
+184,Daniel-Henry Kahnweiler,1884,Mannheim
+185,Humbert de Moyenmoutier,1000,Lotharingie
+186,Jean-Pol Martin,1943,Paris
+187,René Schickele,1883,Obernai
+188,Peter Scholl-Latour,1924,Bochum
+189,Wilhelm Uhde,1874,Strzelce Krajeńskie
+190,Annette Kolb,1870,Munich
+191,Claire Goll,1891,Nuremberg
+192,Alfred Neumann,1895,Lidzbark
+193,Jules Mohl,1800,Stuttgart
+194,Hans-Joachim Klein,1947,Francfort-sur-le-Main
+195,Xavier Haegy,1870,Hirsingue
+196,Charles Koechlin,1867,16e arrondissement de Paris
+197,Romuald Karmakar,1965,Wiesbaden
+198,Bodo Uhse,1904,Rastatt
+199,Christian de La Mazière,1922,Tours
+200,Alexander Büchner,1827,Darmstadt
+201,Charles-Frédéric Reinhard,1761,Schorndorf
+202,André Bellessort,1866,Laval
+203,Alfred Grosser,1925,Francfort-sur-le-Main
+204,Georges-Bernard Depping,1784,Münster
+205,Siegfried Kracauer,1889,Francfort-sur-le-Main
+206,Joseph Derenbourg,1811,Mayence
+207,Maurice de Saxe,1696,Goslar
+208,Lion Feuchtwanger,1884,Munich
+209,Theodor Plievier,1892,Berlin
+210,Théophile Conrad Pfeffel,1736,Colmar
+211,Stephan Hermlin,1915,Chemnitz
+212,Richard Coudenhove-Kalergi,1894,Ville de Tokyo
+213,Charles-Louis de Ficquelmont,1777,Dieuze
+214,Manès Sperber,1905,Zabolotiv
+215,Emma Goldman,1869,Kaunas
+216,Joseph-Louis Lagrange,1736,Turin
+217,Jacques-André Bertrand,1946,Annonay
+218,Henri Poincaré,1854,Nancy
+219,François Mauriac,1885,Bordeaux
+220,Christopher Tolkien,1924,Leeds
+221,Jean-Baptiste de Lamarck,1744,Bazentin
+222,Claude-Henri de Rouvroy de Saint-Simon,1760,Paris
+223,Pierre de Coubertin,1863,7e arrondissement de Paris
+224,Jean Cocteau,1889,Maisons-Laffitte
+225,Jacques-Yves Cousteau,1910,Saint-André-de-Cubzac
+226,Hervé Guibert,1955,Saint-Cloud
+227,André Gorz,1923,Vienne
+228,Axel Corti,1933,Boulogne-Billancourt
+229,Sylvie Goulard,1964,Marseille
+230,Mongo Beti,1932,Mbalmayo
+231,Guy Étienne,1928,Saint-Carreuc
+232,Abeozen,1896,Saint-Sauveur
+233,Yves Bonnefoy,1923,Tours
+234,Maurice Scève,1501,Lyon
+235,Alice Rahon,1904,Chenecey-Buillon
+236,Michel Le Nobletz,1577,Plouguerneau
+237,Auguste Brizeux,1803,Lorient
+238,Dominique Aury,1907,Rochefort
+239,Marie d’Agoult,1805,Francfort-sur-le-Main
+240,Hélène Grimaud,1969,Aix-en-Provence
+241,Hucbald de Saint-Amand,840,Tournai
+242,Flora Tristan,1803,Paris
+243,Jean Fernand-Lafargue,1856,Bordeaux
+244,Marie Bashkirtseff,1858,Havrontsi
+245,Marie Bashkirtseff,1860,Havrontsi
+246,Auguste Anicet-Bourgeois,1806,Paris
+247,Jean Bruce,1921,Aillières-Beauvoir
+248,André Jullien,1766,Chalon-sur-Saône
+249,Émile Augier,1820,Valence
+250,Lucien Tesnière,1893,Mont-Saint-Aignan
+251,Frédéric Mitterrand,1947,16e arrondissement de Paris
+252,Théodore Aubanel,1829,Avignon
+253,Timothée de Fombelle,1973,Paris
+254,Sophie Calle,1953,Paris
+255,Narcisse Fournier,1803,Paris
+256,Marcel Boulestin,1878,Poitiers
+257,Isabelle d'Orléans-Bragance,1911,château d'Eu
+258,Elena Poniatowska,1932,Paris
+259,Elena Poniatowska,1933,Paris
+260,Sheila,1945,Créteil
+261,Hortense Mancini,1646,Rome
+262,Marie-Anne Lenormand,1772,Alençon
+263,Nicolas Oudinot,1791,Bar-le-Duc
+264,Blaise de Vigenère,1523,Saint-Pourçain-sur-Sioule
+265,Paul-Armand Gette,1927,7e arrondissement de Lyon
+266,Monique Wittig,1935,Dannemarie
+267,Anne Golon,1921,Toulon
+268,Gaston Rébuffat,1921,Marseille
+269,Alejandro Jodorowsky,1929,Iquique
+270,Émile Bernard,1868,Lille
+271,Louise d'Épinay,1726,Valenciennes
+272,Arthur de Gobineau,1816,Ville-d'Avray
+273,Nadine Trintignant,1934,Nice
+274,Jean Desmarets de Saint-Sorlin,1595,Paris
+275,Raoul de Caen,1080,Caen
+276,Alain-René Lesage,1668,Sarzeau
+277,Anna Laetitia Barbauld,1743,Kibworth Harcourt
+278,Han Ryner,1861,Nemours
+279,Alain Mabanckou,1966,Pointe-Noire
+280,Catherine de Bourbon,1559,Paris
+281,Christiane Taubira,1952,Cayenne
+282,Marie-Thérèse Rodet Geoffrin,1695,Paris
+283,Dương Thu Hương,1947,Thái Bình
+284,Olivia Ruiz,1980,Carcassonne
+285,Savitri Devi,1905,2e arrondissement de Lyon
+286,Juliette Adam,1836,Verberie
+287,Danielle Mitterrand,1924,Verdun
+288,Susan George,1934,Akron
+289,Gaston Bachelard,1884,Bar-sur-Aube
+290,Marie de Clèves,1426,duché de Clèves
+291,Isabelle Eberhardt,1877,Genève
+292,Étienne Bonnot de Condillac,1714,Grenoble
+293,Marlène Jobert,1940,Alger
+294,Laure Junot d’Abrantès,1784,Montpellier
+295,Eugène Viollet-le-Duc,1814,ancien 2e arrondissement de Paris
+296,Benoîte Groult,1920,8e arrondissement de Paris
+297,María Luisa Bombal,1909,Viña del Mar
+298,María Luisa Bombal,1910,Viña del Mar
+299,Sophie Gay,1776,Paris
+300,James Baldwin,1924,Harlem
+301,Dominique Manotti,1942,Paris
+302,Valentine de Saint-Point,1875,2e arrondissement de Lyon
+303,François de La Rochefoucauld,1613,Paris
+304,Édika,1940,Héliopolis
+305,Stéphane Hessel,1917,Berlin
+306,Jacques Prévert,1900,Neuilly-sur-Seine
+307,Carlo Goldoni,1707,Venise
+308,Jean XXII,1244,Cahors
+309,Oxmo Puccino,1974,Ségou
+310,Pierre Dac,1893,Châlons-en-Champagne
+311,Jean-Pierre Sinapi,1949,Cahors
+312,Wladimir Jemeljanowitsch Maximow,1930,Moscou
+313,Alexandre Guinzbourg,1936,Moscou
+314,Jacques Rivette,1928,Rouen
+315,Jérôme Lalande,1732,Bourg-en-Bresse
+316,Irène Némirovsky,1903,Kiev
+317,Jean-Marie Lustiger,1926,12e arrondissement de Paris
+318,Alexandre Dumas fils,1824,ancien 2e arrondissement de Paris
+319,Jean Dubuffet,1901,Le Havre
+320,Robert Desnos,1900,11e arrondissement de Paris
+321,Clément VI,1291,Rosiers-d'Égletons
+322,Pierre Petit,1617,Paris
+323,Georges Cuvier,1769,Montbéliard
+324,Joseph Reinach,1856,Paris
+325,Paul Frère,1917,Le Havre
+326,Julio Cortázar,1914,Bruxelles
+327,Sylvère Lotringer,1938,Paris
+328,Jean de Tournes,1504,Noyon
+329,Marc Levy,1961,Boulogne-Billancourt
+330,Claude de Malleville,1597,Paris
+331,Philippe Néricault Destouches,1680,Tours
+332,Daniel Chamier,1565,Dauphiné
+333,Jean-Marie Balestre,1921,Saint-Rémy-de-Provence
+334,Jean Giono,1895,Manosque
+335,Virginie Ancelot,1792,Dijon
+336,Jean Anouilh,1910,Bordeaux
+337,Bernard Ardura,1948,Bordeaux
+338,Roland Barthes,1915,Cherbourg
+339,Alfred de Musset,1810,Paris
+340,Ismaïl Kadaré,1936,Gjirokastër
+341,Atiq Rahimi,1962,Kaboul
+342,Aristide Briand,1862,Nantes
+343,Érik Izraelewicz,1954,Strasbourg
+344,Moshe ibn Tibbon,1195,Marseille
+345,Charles Fourier,1772,Besançon
+346,Thérèse de Lisieux,1873,Alençon
+347,Jean-Jacques Audubon,1785,Les Cayes
+348,Jean Teulé,1953,Saint-Lô
+349,Théophile Gautier,1811,Tarbes
+350,Gilles Deleuze,1925,17e arrondissement de Paris
+351,Jean Genet,1910,Paris
+352,Mylène Farmer,1961,Pierrefonds
+353,Jean-Claude Forest,1930,Le Perreux-sur-Marne
+354,Alphonse Karr,1808,Paris
+355,Antonin Artaud,1896,Marseille
+356,Giuseppe Mazzini,1805,Gênes
+357,Alain Ducasse,1956,Orthez
+358,Pierre Plantard,1920,7e arrondissement de Paris
+359,Alphonse de Lamartine,1790,Mâcon
+360,Nicolas Boileau,1636,Paris
+361,Pierre Teilhard de Chardin,1881,château de Sarcenat
+362,Gracchus Babeuf,1760,Saint-Quentin
+363,Benvenuto Cellini,1500,Florence
+364,Claude-Adrien Helvétius,1715,rue Sainte-Anne
+365,Adrien-Marie Legendre,1752,Paris
+366,Q191305,1808,Paris
+367,René Goscinny,1926,5e arrondissement de Paris
+368,Alexeï Nikolaïevitch Tolstoï,1883,Pougatchev
+369,Jean-François Lyotard,1924,Versailles
+370,Frantz Fanon,1925,Fort-de-France
+371,Henri Troyat,1911,Moscou
+372,Benjamin Nicolas Marie Appert,1797,Paris
+373,Q195050,1883,Auxerre
+374,Alexandre Berkman,1870,Vilnius
+375,Jean-Marc Leclercq,1961,Lille
+376,Jules Lemaître,1853,Vennecy
+377,Aurélie Filippetti,1973,Villerupt
+378,Alfred Capus,1857,Aix-en-Provence
+379,Paul Bourget,1852,Amiens
+380,Sibylle Gabrielle Riquetti de Mirabeau,1850,château de Coëtsal
+381,Guillaume de Machaut,1300,Reims
+382,Paul Valéry,1871,Sète
+383,Varian Fry,1907,New York
+384,Alexandre Herzen,1812,Moscou
+385,Nicolas de Condorcet,1743,Ribemont
+386,Dominique Dufour de Pradt,1759,canton d'Allanche
+387,José Corti,1895,Vitry-sur-Seine
+388,Gabriel Bonnot de Mably,1709,Grenoble
+389,Edmond Rostand,1868,Marseille
+390,Q203674,1905,Paris
+391,Antoine de Rivarol,1753,Bagnols-sur-Cèze
+392,Paul Winkler,1898,Budapest
+393,Étienne de Jouy,1764,Versailles
+394,Jean Galbert de Campistron,1656,Toulouse
+395,Jean-Pons-Guillaume Viennet,1777,Béziers
+396,Janri Kachia,1939,Batoumi
+397,Raffaëla Anderson,1976,Montfermeil
+398,Édouard Estaunié,1862,Dijon
+399,Olympe de Gouges,1748,Montauban
+400,Georges Bataille,1897,Billom
+401,Édouard-Félix Guyon,1902,8e arrondissement de Paris
+402,Édouard-Raoul Brygoo,1920,Lille
+403,Nicole Védrès,1911,Paris
+404,Claire Élisabeth de Vergennes,1780,Paris
+405,Valtesse de La Bigne,1848,Paris
+406,Louise Weiss,1893,Arras
+407,Martine Brochard,1944,Neuilly-sur-Seine
+408,Édouard Blau,1836,Blois
+409,Édouard Chavannes,1865,3e arrondissement de Lyon
+410,Édouard Drumont,1844,ancien 2e arrondissement de Paris
+411,Édouard Dujardin,1861,Saint-Gervais-la-Forêt
+412,Édouard Glissant,1928,Sainte-Marie
+413,Édouard Grenier,1819,Baume-les-Dames
+414,Édouard Lefebvre de Laboulaye,1811,ancien 7e arrondissement de Paris
+415,Anne-Sophie Brasme,1984,Metz
+416,Édouard Vaillant,1840,Vierzon
+417,Édouard d'Anglemont,1796,Pont-Audemer
+418,Édouard d'Anglemont,1798,Pont-Audemer
+419,Annette Mbaye d'Erneville,1926,Sokone
+420,Catherine Robbe-Grillet,1930,14e arrondissement de Paris
+421,Élie-Abel Carrière,1818,May-en-Multien
+422,Laurette Séjourné,1911,Italie
+423,Élie Fréron,1718,Quimper
+424,Élie Faure,1873,Sainte-Foy-la-Grande
+425,Élie Semoun,1963,Paris
+426,Élisabeth Gille,1937,Paris
+427,Émile Arnaud,1864,La Chapelle-de-Surieu
+428,E. Armand,1872,11e arrondissement de Paris
+429,Émile Bergerat,1845,rue de la Vieille-Monnaie
+430,Émile Blémont,1839,ancien 6e arrondissement de Paris
+431,Émile Boutmy,1835,Paris
+432,Alain,1868,Mortagne-au-Perche
+433,Austen Henry Layard,1817,Paris
+434,Émile Driant,1855,Neufchâtel-sur-Aisne
+435,Macha Méril,1940,Rabat
+436,Geneviève de Gaulle-Anthonioz,1920,Saint-Jean-de-Valériscle
+437,Geneviève Tabouis,1892,8e arrondissement de Paris
+438,Germaine Dulac,1882,Amiens
+439,Nina Roberts,1979,Villecresnes
+440,Isabelle Autissier,1956,12e arrondissement de Paris
+441,Mimi Perrin,1926,Saint-Maurice
+442,Nina Berberova,1901,Saint-Pétersbourg
+443,Charlotte Aïssé,1693,Circassie
+444,Anne Brochet,1966,Amiens
+445,Christine Angot,1959,Châteauroux
+446,Jean-Joseph Vadé,1720,Ham
+447,Bertrand Clauzel,1772,Mirepoix
+448,Gina Pellón,1926,Cumanayagua
+449,Jacques-André Naigeon,1735,Paris
+450,Jacques-André Naigeon,1738,Paris
+451,Margot Anand,1944,Paris
+452,Robert de Torigni,1100,Torigni-sur-Vire
+453,Jules Breton,1827,Courrières
+454,Thierry Acot-Mirande,1960,Paris
+455,Maurice Schumann,1911,16e arrondissement de Paris
+456,Jack Thieuloy,1931,Beaucaire
+457,Marie Skobtsov,1891,Riga
+458,Arkadi Stolypine,1903,Kalnaberžė
+459,Benjamin Péret,1899,Rezé
+460,André Migot,1892,18e arrondissement de Paris
+461,Dominique Ehrhard,1958,Mulhouse
+462,Philippe Jullian,1919,Bordeaux
+463,Émile Guimet,1836,Lyon
+464,Émile Henry,1872,Barcelone
+465,Émile Javal,1839,Paris
+466,Émile Littré,1801,ancien 11e arrondissement de Paris
+467,Émile Mâle,1862,Commentry
+468,Émile Pagès,1893,Gaillefontaine
+469,Q286293,1825,Marseille
+470,Émile Picot,1844,Paris
+471,Émile Pouget,1860,Pont-de-Salars
+472,Émile Senart,1847,Reims
+473,Émile Souvestre,1806,Morlaix
+474,Léon Gautier,1832,Le Havre
+475,Émile Vuillermoz,1878,4e arrondissement de Lyon
+476,Émile de Najac,1828,Lorient
+477,Paul Meurice,1818,ancien 4e arrondissement de Paris
+478,Armand Keravel,1910,Brest
+479,Éric-Emmanuel Schmitt,1960,Sainte-Foy-lès-Lyon
+480,Patrick Lapeyre,1949,Paris
+481,Jean Rostand,1894,17e arrondissement de Paris
