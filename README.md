@@ -6,10 +6,10 @@ Ce mini-projet propose un exemple concret de transformation de données issues d
 
 ## Objectifs
 
-- interroger un graphe de connaissances ;
-- transformer les résultats en données tabulaires ;
-- améliorer la qualité et la cohérence des informations ;
-- produire un dataset prêt pour la réutilisation scientifique.
+- interroger un graphe de connaissances
+- transformer les résultats en données tabulaires
+- améliorer la qualité et la cohérence des informations
+- produire un dataset prêt pour la réutilisation scientifique
 
 ## Technologies
 
